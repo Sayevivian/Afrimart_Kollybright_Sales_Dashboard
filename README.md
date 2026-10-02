@@ -1,48 +1,40 @@
-AfriMart Sales Dataset Analysis
+AfriMart Sales Analysis
+■  Overview
 
-This project analyzes sales performance data for AfriMart, a retail business operating across multiple African countries. The dataset contains transaction records covering product sales, revenue, costs, and profit over time.
+This project analyzes AfriMart’s sales data to evaluate revenue, costs, profit, product performance, and sales across different countries. The analysis transforms raw sales data into meaningful business insights using Excel.
 
-The analysis was performed using Microsoft Excel, incorporating Pivot Tables, charts, slicers, and an interactive dashboard to provide business insights.
-
-Dataset Information
-
-The dataset contains 700 records with the following fields:
-
-Country – Location where the sale occurred
-Product – Product sold
-Units Sold – Quantity of items sold
-Revenue – Total sales value
-Cost – Total cost incurred
-Profit – Revenue minus cost
-Date – Date of transaction
-Workbook Structure
-
-The Excel workbook contains four sheets:
-
-Data – Original sales dataset
-New Data – Cleaned/transformed dataset
-Pivot Table – Summary tables used for analysis
-Dashboard – Interactive visual report
-Key Analysis Areas
-
-The dashboard provides insights into:
-
-Sales performance by country
-Product profitability
-Revenue and cost analysis
-Profit trends over time
-Top-performing products
-Regional sales comparison
-Tools Used
+■ Business Questions Answered
+Which countries generate the highest revenue and profit?
+Which products perform best in terms of sales and profitability?
+What are the overall revenue, cost, and profit figures?
+How does sales performance change over time?
+■ Key KPIs
+Total Revenue
+Total Cost
+Total Profit
+Units Sold
+Profit by Country
+Revenue by Product
+■■ Tools Used
 Microsoft Excel
-Pivot Tables
+PivotTables
 Pivot Charts
 Slicers
-Data Cleaning Techniques
-Objective
+Excel Dashboard
+■ Project Output / Dashboard Preview
 
-The purpose of this project is to transform raw sales data into meaningful business insights that support data-driven decision-making, performance tracking, and strategic planning.
 
-Outcome
 
-The dashboard enables users to quickly identify sales trends, compare country performance, evaluate product profitability, and monitor overall business performance through an easy-to-use interactive interface.
+
+■ Key Insights
+Identified the countries contributing the most to overall revenue and profit.
+Highlighted top-performing and less-performing products.
+Analyzed the relationship between revenue, cost, and profitability.
+Used interactive slicers to make the dashboard easier to explore.
+■ Files in This Repository
+AfriMart Sales Dataset.xlsx
+Dashboard Screenshot
+README.md
+■ Conclusion
+
+This project demonstrates the use of Excel for data cleaning, analysis, visualization, and dashboard development. It showcases how raw sales data can be transformed into actionable insights to support business decision-making.
